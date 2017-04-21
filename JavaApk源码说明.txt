@@ -1,0 +1,28 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+俗话说树大招风，随着微信的壮大其追随者也会不断增大。本项目源码就是一套仿微信全套UI项目源码，引导页动画、登录、聊天对话、摇一摇动画、个人详细界面都比较全面。但是聊天部分较弱，可以借鉴本站之前发布的<a href='http://javaapk.com/source/484.html'>Android应用源码大神级高仿安卓陌陌项目</a>。那个项目的复杂性不低于本项目，并且功能上的实现代码也比较丰富。
+涉及模块&技术
+摇一摇动画
+引导动画
+用户登录
+...
